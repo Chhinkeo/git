@@ -5,3 +5,6 @@ for i in range(number):
 print("text")
 
 #last update
+
+a = 5
+print(a+10)
